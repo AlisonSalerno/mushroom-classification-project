@@ -2,6 +2,8 @@
 
 Through classification modeling, this project aims to classify mushrooms as edible or poisonous. 
 
+In recent years, the popularity of mushrooms as a superfood and the understanding of their vast health benefits has surged.  What was typically seen as just a traditional food, mushrooms are now being widely consumed for their healing and health abilities.  With more and more people interested, people are more likely to be seeking mushrooms in the wild and I wanted to understand if edible/poisonous mushrooms could be easily indentified and what that looks like. 
+
 The raw dataset utilized in this project was sourced from the UCI Machine Learning Repository.  The dataset includes characteristics on 8,124 mushroom samples from 23 species of gilled mushrooms.
 
 The target variable assessed was a class distinction of 'edible' or 'poisonous'. The explanatory variables covered a range of descriptive and visual characteristics on the structure of each observed mushroom - such as, cap color, odor,ring number and stalk shape.

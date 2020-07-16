@@ -13,8 +13,7 @@ The raw dataset utilized in this project was sourced from the UCI Machine Learni
  
 Target Distribution:  
 
-
-![](/images/target.png =250)
+<img src="/images/target.png" width="550">
 
 ## EDA 
 - explored categorical features
@@ -22,13 +21,13 @@ Target Distribution:
 
 A few examples of categorical features within the dataset: 
 
-![](/images/features.png)
+<img src="/images/features.png" width="550">
 
-![](/images/odor.png)
+<img src="/images/odor.png" width="550">
 
-![](/images/spore.png)
+<img src="/images/spore.png" width="550">
 
-![](/images/gillcolor.png)
+<img src="/images/gillcolor.png" width="550">
 
 ## Conclusion & Takeaways
 

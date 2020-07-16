@@ -12,6 +12,7 @@ The raw dataset utilized in this project was sourced from the UCI Machine Learni
 - The explanatory variables (originally 21) covered a range of descriptive and visual characteristics on the structure of each observed mushroom - such as, cap color, odor,ring number and stalk shape.
 
 Target Distribution: 
+
 ![](/images/target.png)
 
 ## EDA 
@@ -21,15 +22,18 @@ Target Distribution:
 A few examples of categorical features within the dataset: 
 
 ![](/images/features.png)
+
 ![](/images/odor.png)
+
 ![](/images/spore.png)
+
 ![](/images/gillcolor.png)
 
 ## Conclusion & Takeaways
 
 My tuned classification models all performed really well with the dataset. Logistic Regression, which had a score of 99% would normally be a great choice but given that the model predicted false negatives which could be deadly, and that the other tested models performed perfectly, the other models are much better suited to classify mushrooms.  Since my models performed so well, it was clear to me that they were able to identify specific traits that greatly influenced the classification of an edible versus poisonous mushroom. And that was exactly what I was hoping for!  
 
-And finally, a few simple rules to identify a poisonous mushroom…
+#### And finally, a few simple rules to identify a poisonous mushroom…
 
 I was able to put together a simple list using what I learned from my feature importance analysis and EDA. That said, I am not an expert and this list should not be applied in the real world — but I was able to draw some conclusions which are worth sharing for the purpose of this project.
 
@@ -41,7 +45,7 @@ I was able to put together a simple list using what I learned from my feature im
 
 
 
-Contents of this project repository:
+## Contents of this project repository:
 
 1. Data Folder: all csvs stored here and pkled data post cleaning
 2. Notebooks Folder: all work in progress notebooks - cleaning, EDA, Modeling

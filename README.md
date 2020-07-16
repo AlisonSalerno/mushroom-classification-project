@@ -10,10 +10,11 @@ The raw dataset utilized in this project was sourced from the UCI Machine Learni
 
 - The target variable assessed was a class distinction of 'edible' or 'poisonous'. 
 - The explanatory variables (originally 21) covered a range of descriptive and visual characteristics on the structure of each observed mushroom - such as, cap color, odor,ring number and stalk shape.
+ 
+Target Distribution:  
 
-Target Distribution: 
 
-![](/images/target.png)
+![](/images/target.png =250)
 
 ## EDA 
 - explored categorical features

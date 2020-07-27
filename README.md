@@ -45,7 +45,7 @@ I was able to put together a simple list using what I learned from my feature im
 
 
 
-## Contents of this project repository:
+## Contents of this project repository
 
 1. Data Folder: all csvs stored here and pkled data post cleaning
 2. Notebooks Folder: all work in progress notebooks - cleaning, EDA, Modeling

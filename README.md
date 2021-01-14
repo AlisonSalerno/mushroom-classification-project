@@ -2,7 +2,7 @@
 
 Through classification modeling, this project aims to classify mushrooms as edible or poisonous. 
 
-In recent years, the popularity of mushrooms as a superfood and the understanding of their vast health benefits has surged.  What used to be typically seen as just a traditional food, mushrooms are now being widely consumed and acknowledged for their healing and health abilities.  With more and more people interested, foraging for mushrooms in the wild is likely to increase and I wanted to understand if edible/poisonous mushrooms could be easily indentified and what that looks like. 
+In recent years, the popularity of mushrooms as a superfood and the understanding of their vast health benefits has surged.  What used to be typically seen as just a traditional food, mushrooms are now being widely consumed and acknowledged for their healing and health abilities.  With more and more people interested, foraging for mushrooms in the wild is likely to increase and I wanted to understand if edible/poisonous mushrooms could be easily identified and what that looks like. 
 
 ## The Dataset 
 
